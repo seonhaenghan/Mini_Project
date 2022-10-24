@@ -1,0 +1,6 @@
+#ifndef STATE_H
+#define STATE_H
+
+enum{CARD_READER, CARD_REGISTER, CARD_DELETE, CARD_SEARCH};
+
+#endif

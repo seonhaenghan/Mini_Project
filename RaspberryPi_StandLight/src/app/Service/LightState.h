@@ -1,0 +1,7 @@
+#ifndef __LIGHTSTATE_H__
+#define __LIGHTSTATE_H__
+
+enum {LIGHT_OFF, LIGHT_1, LIGHT_2, LIGHT_3,
+ LIGHT_4, LIGHT_5, MOTOR_ON_OFF, MOTOR_POWER};
+
+#endif /* __LIGHTSTATE_H__ */
